@@ -1,3 +1,3 @@
-## [0.0.1] - TODO: Add release date.
-
-* TODO: Describe initial release.
+## [0.0.1] - 2021-01-19
+ 
+* This is an initial release. A modern textbox added which uses flutter TextFormField and has must needed functionalities.
