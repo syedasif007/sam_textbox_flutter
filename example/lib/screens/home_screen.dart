@@ -24,7 +24,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.amber,
-        title: Text('SAM Demo TextBox'),
+        title: Text('SAM TextBox Demo'),
       ),
       body: Center(
         child: SamTextBox(

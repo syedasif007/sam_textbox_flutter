@@ -89,7 +89,7 @@ packages:
     source: hosted
     version: "1.8.0-nullsafety.1"
   sam_textbox_flutter:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       path: ".."
       relative: true

@@ -24,9 +24,6 @@ dependencies:
   flutter:
     sdk: flutter
 
-  sam_textbox_flutter:
-    path: ../
-
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -35,6 +32,8 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  sam_textbox_flutter:
+    path: ../
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

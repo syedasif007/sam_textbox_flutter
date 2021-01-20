@@ -1,4 +1,4 @@
-package com.sam.turnonsound.example
+package com.sam.example
 
 import io.flutter.embedding.android.FlutterActivity
 
